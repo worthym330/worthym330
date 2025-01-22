@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Worthy</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Basant Mandal</h1>
+<h3 align="center">A passionate full stack developer and devops engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=worthym330&label=Profile%20views&color=0e75b6&style=flat" alt="worthym330" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=worthym330" alt="worthym330" /></a> </p>
 
-- 🔭 I’m currently working on [DayBreakPass](www.daybreakpass.com)
+- 🌱 I’m currently learning **K8s & React-native**
 
-- 🌱 I’m currently learning **next, react native**
-
-- 💬 Ask me about **React, Nest**
+- 💬 Ask me about **Node & Cloud**
 
 - 📫 How to reach me **worthyismafia@gmail.com**
 
