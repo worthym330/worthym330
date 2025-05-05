@@ -88,7 +88,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=worthym330&show_icons=true&theme=tokyonight" alt="Basant's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=worthym330&theme=tokyonight" alt="Basant's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=worthym330&theme=radical" alt="Basant's GitHub Streak" />
 </p>
 
 <p align="center">
