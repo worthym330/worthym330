@@ -1,84 +1,117 @@
 <p align="center">
-  <img width="200" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+  <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
 </p>
-<h1> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=worthym330.worthym330" alt="Profile views">
-<a href="https://github.com/worthym330"><img src="https://img.shields.io/github/followers/worthym330?label=Follow&amp;style=social" alt="Github"></a></p>
+<h1 align="center">Hello, Fellow &lt;Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<div size="20px"> Hi! My name is <strong>Basant Mandal</strong>. Thank you for taking the time to view my GitHub Profile! 😊</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=worthym330&label=Profile%20views&color=0e75b6&style=flat" alt="worthym330" />
+  <a href="https://github.com/worthym330?tab=followers"><img src="https://img.shields.io/github/followers/worthym330?label=Followers&style=social" alt="GitHub Followers"></a>
+</p>
 
+<div align="center">
+  <h3>Hi! I'm <strong>Basant Mandal</strong> 👨‍💻</h3>
+  <p>Thank you for visiting my GitHub profile!</p>
+</div>
 
-<h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" width="100px"></h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
-<ul>
-<li>🔭 I’m currently working as a Full Stack Developer and DevOps Engineer</li>
-<li>🌱 I’m currently learning advanced system design and Kubernetes at scale</li>
-<li>👯 I’m looking to collaborate on scalable SaaS, DevOps, and AI integrations</li>
-<li>💬 Ask me about Node.js, NestJS, PostgreSQL, Docker, Kubernetes, and AWS</li>
-<li>⚡ Fun fact: I automate everything that I get bored doing twice 😄</li>
-</ul>
+---
 
-<h2> Tech Stack & Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
+### 🧑‍💻 About Me
 
-<!-- Programming Languages -->
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" title="JavaScript"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" title="TypeScript"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" title="Python"></a>
+- 🔭 I’m currently working as a **Full Stack Developer** and **DevOps Engineer**.
+- 🌱 I’m currently learning advanced system design and Kubernetes at scale.
+- 👯 I’m looking to collaborate on scalable SaaS, DevOps, and AI integrations.
+- 💬 Ask me about **Node.js**, **NestJS**, **PostgreSQL**, **Docker**, **Kubernetes**, and **AWS**.
+- ⚡ Fun fact: I automate everything that I get bored doing twice 😄
 
-<!-- Backend & Frameworks -->
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" title="Node.js"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nestjs.svg" title="NestJS"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg" title="Express.js"></a>
+---
 
-<!-- Frontend -->
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" title="React.js"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg" title="Next.js"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg" title="Tailwind CSS"></a>
+### 🛠️ Tech Stack & Skills
 
-<!-- Databases -->
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg" title="PostgreSQL"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg" title="MongoDB"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" title="MySQL"></a>
+#### 💻 Programming Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</p>
 
-<!-- DevOps / Cloud -->
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg" title="Docker"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg" title="Kubernetes"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg" title="AWS"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/terraform.svg" title="Terraform"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/githubactions.svg" title="GitHub Actions"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg" title="Jenkins"></a>
+#### 🧰 Backend & Frameworks
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+</p>
 
-<!-- Monitoring -->
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/prometheus.svg" title="Prometheus"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/grafana.svg" title="Grafana"></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/loki.svg" title="Loki"></a>
+#### 🌐 Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+</p>
 
-<h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
+#### 🗄️ Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</p>
 
-<a href="https://www.linkedin.com/in/basantmandal330"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a>
-<a href="https://medium.com/@mandalbasant330"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"></a>
-<a href="https://github.com/worthym330"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
+#### ☁️ DevOps & Cloud
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="40" height="40"/>
+  <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="Argo CD" width="40" height="40"/>
+</p>
 
-<br><br>
+#### 📈 Monitoring & Logging
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/>
+  <img src="https://grafana.com/static/img/logos/logo.svg" alt="Grafana" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="ELK Stack" width="40" height="40"/>
+</p>
 
-<p><a href="https://github.com/worthym330"><img src="https://activity-graph.herokuapp.com/graph?username=worthym330&amp;theme=tokyonight" alt="Basant's GitHub Activity Graph"></a></p>
+---
 
-<table>
-  <thead>
-    <tr>
-      <th><img src="https://github-readme-stats.vercel.app/api?username=worthym330&amp;show_icons=true&amp;theme=tokyonight" alt="Basant's github stats"></th>
-      <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=worthym330&amp;theme=tokyonight" alt="Basant GitHub Streak"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=worthym330&amp;theme=tokyonight" alt="Top Langs"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=worthym330&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=tokyonight" alt="Github Stars"></td>
-    </tr>
-  </tbody>
-</table>
+### 🤝 Connect with Me
 
-<p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></p>
+<p>
+  <a href="https://www.linkedin.com/in/basantmandal330"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://twitter.com/worthym330"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a>
+  <a href="https://medium.com/@mandalbasant330"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/medium/medium-original.svg" alt="Medium" width="40" height="40"/></a>
+  <a href="https://github.com/worthym330"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
+</p>
 
-<hr>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=worthym330&show_icons=true&theme=tokyonight" alt="Basant's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=worthym330&theme=tokyonight" alt="Basant's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=worthym330&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=worthym330&theme=tokyonight&hide_border=true&area=true" alt="Basant's Activity Graph">
+</p>
+
+---
+
+### 😂 Random Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
+
+---
+
