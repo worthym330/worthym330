@@ -100,7 +100,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=worthym330&theme=tokyonight&hide_border=true&area=true" alt="Basant's Activity Graph">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=worthym330&theme=tokyonight" alt="Basant's Activity Graph">
 </p>
 
 ---
@@ -113,3 +113,8 @@
 
 ---
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Fake_Streak-🔥%20700_days-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fake_Contributions-9k+_commits-green?style=for-the-badge&logo=github" />
+</p>
