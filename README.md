@@ -87,12 +87,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=worthym330&show_icons=true&theme=tokyonight" alt="Basant's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=worthym330&show_icons=true&theme=radical" alt="Basant's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=worthym330&theme=radical" alt="Basant's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=worthym330&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=worthym330&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -114,26 +114,3 @@
 ---
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Fake_Streak-🔥%20700_days-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fake_Contributions-9k+_commits-green?style=for-the-badge&logo=github" />
-</p>
-
----
-
-
-### 🧠 My GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=worthym330&theme=github-compact)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=worthym330&show_icons=true&theme=radical)
-
----
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=worthym330&theme=radical)
